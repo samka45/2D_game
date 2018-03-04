@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/vPm5Crb (1).png-2875f8d0026e6689bf2caf1b7ddce016.stex"
+
+[deps]
+
+source_file="res://SPRITES/vPm5Crb (1).png"
+source_md5="2019fc5b8f15a5eb27e4c408438b6eb1"
+
+dest_files=[ "res://.import/vPm5Crb (1).png-2875f8d0026e6689bf2caf1b7ddce016.stex" ]
+dest_md5="4c109d299456bdb1cff8e66f65581529"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
